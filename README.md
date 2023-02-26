@@ -1,5 +1,5 @@
 # med-utils
-Practical utilities for medical image pre-post processing
+Utilities for medical image pre-post processing
 
 ### resize3D
 Resample nii-style image, translated from DPARSF and STTAR MATLAB code.
